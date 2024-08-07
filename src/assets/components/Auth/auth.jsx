@@ -1,8 +1,8 @@
-const Login = () =>{
+const Auth = () =>{
     return(
         <>
         </>
     )
 }
 
-export default Login;
+export default Auth;

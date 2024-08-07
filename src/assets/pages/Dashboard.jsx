@@ -1,4 +1,4 @@
-const Footer = () =>{
+const Dashboard = () =>{
     return(
         <>
         </>
