@@ -5,4 +5,4 @@ const Footer = () =>{
     )
 }
 
-export default Dashboard;
+export default Footer;
