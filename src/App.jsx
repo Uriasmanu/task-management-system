@@ -5,7 +5,7 @@ import Dashboard from './assets/pages/Dashboard';
 import Projects from './assets/pages/Projects';
 import Reports from './assets/pages/Reports';
 import Tasks from './assets/pages/Tasks';
-import NotFound from './assets/pages/NotFound';
+import NotFound from './assets/pages/NotFound/NotFound';
 
 function App() {
 
