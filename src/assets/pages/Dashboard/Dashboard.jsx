@@ -1,5 +1,5 @@
 import Header from '../../components/Header/Header';
-
+import "./_dashbord.scss"
 
 const Dashboard = () => {
     return (
