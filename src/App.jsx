@@ -16,7 +16,7 @@ function App() {
     <LoginProvider>
     <Router>
       <Routes>
-        <Route path="/" element={<Dashboard />} />
+        <Route path="/" element={<Login />} />
         <Route path="/Dashboard" element={<Dashboard />} />
         <Route path="/Projects" element={<Projects />} />
         <Route path="/Reports" element={<Reports/>} />
